@@ -21,5 +21,5 @@ I love problem-solving and building efficient solutions, and I’m excited to bl
 
 ## 📫 Let's Connect!
 📩 email: krystle.leslie.co@gmail.com
-📌 [LinkedIn](https://www.linkedin.com/in/krystle-leslie-co/): https://www.linkedin.com/in/krystle-leslie-co/
+📌 [LinkedIn](https://www.linkedin.com/in/krystle-leslie-co/)
 
