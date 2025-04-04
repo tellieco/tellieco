@@ -3,9 +3,9 @@
 ## 🔥 About Me
  I have a background in product development, focusing on third-party integrations, API management, and back-office enhancements. I worked closely with software providers throughout the product lifecycle—integrating solutions, managing the backlog, overseeing testing, and ensuring smooth deployments. I also handled product releases, continuous improvements, and troubleshooting to keep everything running efficiently.
 
-Lately, I’ve been expanding my technical skills—learning programming, scripting, and cloud troubleshooting. I’m completing the AWS re/Start program this March and starting a Software Engineering program in April. 🚀
+Lately, I’ve been expanding my technical skills—learning programming, scripting, and cloud troubleshooting. I have completed the AWS re/Start program this March and starting a Software Engineering program in April. 🚀
 
-I love problem-solving and building efficient solutions, and I’m excited to blend coding, product, and cloud expertise as I move forward in my journey. 💡🔧☁️
+I love problem-solving and building efficient solutions, and I’m excited to blend coding, product, and cloud expertise as I move forward in my journey. 💡🔧☁️  
 
 ## 🛠️  What I'm Working On
 - Pursuing AWS Cloud Practitioner Certification
