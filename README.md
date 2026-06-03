@@ -1,25 +1,19 @@
 ## 👋 Hi, I'm Krystle
 
 ## 🔥 About Me
- I have a background in product development, focusing on third-party integrations, API management, and back-office enhancements. I worked closely with software providers throughout the product lifecycle—integrating solutions, managing the backlog, overseeing testing, and ensuring smooth deployments. I also handled product releases, continuous improvements, and troubleshooting to keep everything running efficiently.
+Full stack engineer. React, Next.js, TypeScript, PostgreSQL.
 
-Lately, I’ve been expanding my technical skills—learning programming, scripting, and cloud troubleshooting. I have completed the AWS re/Start program this March and starting a Software Engineering program in April. 🚀
+## 🔥 Things I've Built
+Node Sentinel AI — Compliance monitoring platform for digital asset platforms
+Mind Glee — Mental health platform for anxiety management and wellness tracking
+Fam Tap — Mobile-first app for parents to log and track daily baby activities
 
-I love problem-solving and building efficient solutions, and I’m excited to blend coding, product, and cloud expertise as I move forward in my journey. 💡🔧☁️  
-
-## 🛠️  What I'm Working On
-- Pursuing AWS Cloud Practitioner Certification
-- Expanding my programming skills in JavaScript
-
-## 🚀 Skills
-- ☁️ Cloud Computing (Learning)-  AWS Services, Cloud Troubleshooting
-- 💻 Software Development (Learning) – JavaScript, Python 
-- 🔗 API Management – Integration, Testing, Deployment
-- 🛠 Backlog Management – Prioritization, Sprint Planning
-- 📊 Product Lifecycle – Feature Development, Releases
-- 🔧 Process Optimization – Automation, Performance Improvements
+## 🛠️ Stack
+Frontend: React, Next.js, TypeScript, Tailwind CSS
+Backend: Node.js, Express.js, Prisma, PostgreSQL, Supabase
+Tools: Docker, Fly.io, AWS, GitHub Actions, Sanity
 
 ## 📫 Let's Connect!
 📩 email: krystle.leslie.co@gmail.com
-📌 [LinkedIn](https://www.linkedin.com/in/krystle-leslie-co/)
+📌 [LinkedIn](https://www.linkedin.com/in/krystleco/)
 
