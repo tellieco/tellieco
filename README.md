@@ -5,8 +5,8 @@ Full stack engineer. React, Next.js, TypeScript, PostgreSQL.
 
 ## 🔥 Things I've Built
 - **Node Sentinel AI** — Compliance monitoring platform for digital asset platforms
-- **Mind Glee** — Mental health platform for anxiety management and wellness tracking
-- **Fam Tap** — Mobile-first app for parents to log and track daily baby activities
+- [**Mind Glee**](http://mindglee.fly.dev/) — Mental health platform for anxiety management and wellness tracking
+- [**Fam Tap**](https://fam-tap-app-client.vercel.app/) — Mobile-first app for parents to log and track daily baby activities
 
 ## 🛠️ Stack
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
