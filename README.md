@@ -1,6 +1,7 @@
 👋 Hi, I'm Krystle
 
 🔥 About Me
+
 Product-minded full-stack engineer based in Barcelona. TypeScript, React, Next.js, Node.js, PostgreSQL.
 Before engineering, I spent 6 years as a Product Owner, owning third-party API integrations on a B2B platform.
 
@@ -17,5 +18,6 @@ Before engineering, I spent 6 years as a Product Owner, owning third-party API i
 * Tools: Docker, Fly.io, AWS, GitHub Actions, Sanity
 
 📫 Let's Connect!
+
 📩 email: [krystle.leslie.co@gmail.com](mailto:krystle.leslie.co@gmail.com)
 📌 [LinkedIn](https://www.linkedin.com/in/krystleco/)
